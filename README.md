@@ -1,5 +1,5 @@
-# The-Legacy-Equation
-<h1>Project - The Legacy Equation</h1>
+
+<h1>Project - The Legacy Equation: A tool for Clarity in Data </h1>
 
 <h2>Description</h2>
 The Legacy Equation encapsulates the essential elements contributing to a brand's success by emphasizing the importance of legacy, which is built on the pillars of operational efficiency, cultural resonance, effective sell-through rates, and waste reduction in the fashion industry. It highlights that a successful brand legacy encompasses not just financial gains but also includes cultural impact, operational excellence, environmental responsibility, and consumer engagement.
@@ -13,6 +13,14 @@ In the contemporary fashion industry, traditional metrics for success—primaril
 <br />
 <br />
 
+[![Screenshot-2024-03-11-114231.png](https://i.postimg.cc/c4TD6ydy/Screenshot-2024-03-11-114231.png)](https://postimg.cc/mtz36nc8)
+<br />
+<br />
+Given the substantial financial and environmental implications of such inventory practices, fashion brands are now compelled to redefine 'legacy' to include sustainable and efficient practices. A legacy that encapsulates responsible production, aligns with consumer demands for sustainability, and reduces waste will not only help in addressing the economic impact of impaired inventory but also contribute positively towards a more sustainable future for the fashion industry.
+
+Legacy, in this context, moves beyond immediate profitability and aims to create a lasting, positive impact on both the economy and the environment. The Legacy Equation can be a strategic tool to aid brands in this transition, as it emphasizes waste reduction and resource utilization—factors that directly relate to the challenge of impaired inventory.
+<br />
+<br />
 <h2> The Hypothsis</h2>
 By redefining legacy as a success metric using the updated Legacy Equation, fashion brands can quantitatively and qualitatively optimize their operations. This approach hypothesizes that:
 
