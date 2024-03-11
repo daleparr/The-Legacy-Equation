@@ -64,14 +64,15 @@ Supports strategic decision-making to minimize waste and maximize resource effic
 The dashboard would offer a mix of quantitative data, like sales figures and waste metrics, and qualitative data, like customer sentiment and brand reputation. Users could see real-time updates, historical trends, and predictive analytics to make informed decisions that align with the brand's long-term strategic goals. It would also be a tool for communicating progress on sustainability and efficiency to stakeholders and for ensuring that the brand’s legacy aligns with the values of modern consumers who prioritize ethical and sustainable business practices.
 <br />
 <br />
+<br />
+[![Screenshot-2024-03-11-115532.png](https://i.postimg.cc/0j4h6TqC/Screenshot-2024-03-11-115532.png)](https://postimg.cc/rRSf3Ysd)
+<br />
 <h2> The Pillar Assessment</h2>
 <br />
 The pillar assessment in the provided image appears to be a radar chart visualization that evaluates Brand X against three key performance areas: Innovation & Efficiency, Cultural Resonance & Resource Utilization.
 <br />
 <br />
-[![Screenshot-2024-03-11-115532.png](https://i.postimg.cc/0j4h6TqC/Screenshot-2024-03-11-115532.png)](https://postimg.cc/rRSf3Ysd)
-<br />
-<br />
+
 <h2>Languages Used</h2>
 
 - <b>Python (data libraries):</b>
