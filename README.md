@@ -6,6 +6,8 @@ The Legacy Equation encapsulates the essential elements contributing to a brand'
 <br />
 <br />
 
+img src= https://imgur.com/a/K9elUrO
+
 <h2>Languages Used</h2>
 
 - <b>Python (data libraries):</b>
